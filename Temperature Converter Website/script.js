@@ -1,4 +1,3 @@
-```javascript
 // =========================
 // Temperature Converter
 // =========================
@@ -74,4 +73,3 @@ temperature.addEventListener("keypress", function(e){
     }
 
 });
-```
